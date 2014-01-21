@@ -42,4 +42,6 @@ This document is made by [gitfab](http://gitfab.org)
 継承
 
 
+
+![CC-BY-SA_icon.png](https://raw.github.com/kaihacl/input-your-repository-name/EXERMOUSE/gitfab/resources/CC-BY-SA_icon.png)
 ---
