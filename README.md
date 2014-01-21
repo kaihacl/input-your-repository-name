@@ -34,4 +34,12 @@ This document is made by [gitfab](http://gitfab.org)
 ![IMG_4062.JPG](https://raw.github.com/kaihacl/input-your-repository-name/master/gitfab/resources/IMG_4062.JPG)
 
 ![IMG_4061.JPG](https://raw.github.com/kaihacl/input-your-repository-name/master/gitfab/resources/IMG_4061.JPG)
+
+〜CCライセンス〜
+
+表示
+
+継承
+
+
 ---
