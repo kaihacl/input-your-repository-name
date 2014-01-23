@@ -51,7 +51,4 @@ This document is made by [gitfab](http://gitfab.org)
 ![CC-BY-SA_icon.png](https://raw.github.com/kaihacl/input-your-repository-name/EXERMOUSE/gitfab/resources/CC-BY-SA_icon.png)
 
 
-
-
-[IMG_5888.MOV](https://raw.github.com/kaihacl/input-your-repository-name/EXERMOUSE/gitfab/resources/IMG_5888.MOV)
 ---
