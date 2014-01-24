@@ -51,7 +51,7 @@ This document is made by [gitfab](http://gitfab.org)
 ![CC-BY-SA_icon.png](https://raw.github.com/kaihacl/input-your-repository-name/EXERMOUSE/gitfab/resources/CC-BY-SA_icon.png)
 
 
-使用風景↓↓
+使用風景のイメージ、推奨使用方法↓↓↓
 
 http://youtu.be/jwkvyoBc4us
 
